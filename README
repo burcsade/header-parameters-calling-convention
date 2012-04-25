@@ -3,13 +3,14 @@ Header Parameters Calling Convention for XINS Framework
 
 Header Parameters Calling Convention for XINS Framework is released under the MIT license.
 
-Header Parameters Calling Convention for XINS Framework enables you to access HTTP parameters
-and use them as input parameters in XINS functions. The output of the function is defined via
-the tag output parameter and function name itself. The templates folder and the tag output 
-parameter name are defined in xins.properties file with keys "templates.source" and 
-"templates.tag.property" respectively. The template cache is enabled by defult and can be 
-turned off via setting "templates.source" parameter to "false" in xins.properties.
-If you find it useful and/or have questions you can drop me an email.
+Header Parameters Calling Convention for XINS Framework enables you to access HTTP
+parameters and use them as input parameters in XINS functions. The output of the 
+function is defined via the tag output parameter and function name itself. The 
+templates folder and the tag output parameter name are defined in xins.properties 
+file with keys "templates.source" and "templates.tag.property" respectively. The 
+template cache is enabled by defult and can be turned off via setting 
+"templates.source" parameter to "false" in xins.properties. If you find it useful
+and/or have questions you can drop me an email.
 
 burcsade(at)gmail(dot)com
 
